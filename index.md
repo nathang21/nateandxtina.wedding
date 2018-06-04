@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default
 ---
 
 ![Save the Date Flyer]({{ "/assets/flyer.png" | absolute_url }})
