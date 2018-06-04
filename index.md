@@ -2,4 +2,4 @@
 layout: default
 ---
 
-![Save the Date Flyer]({{ "/assets/flyer.png" | absolute_url }})
+![Save the Date Flyer]({{ "/assets/flyer.png"}})
