@@ -2,8 +2,17 @@
 ---
 
 @import "{{ site.theme }}";
+.inner {
+  width: 700px;
+}
+
+h1, h2 {
+  text-align: center;
+}
 .center-image
 {
-    margin: 0 auto;
+    //margin: 0 auto;
     display: block;
+    width: 100%;
+    height: 100%;
 }
