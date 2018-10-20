@@ -1,9 +1,51 @@
-theme: jekyll-theme-tactile
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "contrast"
+locale                   : "en-US"
 name: nateandxtina.wedding
 title: Christina & Nathan
+title_separator          : "-"
 description: Check back for updates on our wedding!
-url: https://nateandxtina.wedding
+url: https://nateandsxtina.wedding'
+baseurl: "/"
+repository: nathang21/nateandxtina.wedding
 markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
+  - jemoji
+search: true
+
+# Outputting
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/Vancouver
+
+# Reading Files
+include:
+  - _pages
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+
+# Theme
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: singles
