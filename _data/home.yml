@@ -1,0 +1,42 @@
+intro:
+  lead-in: "Christina & Nathan <br />Are Getting Married"
+  heading: July 14, 2019
+
+
+rsvp:
+  heading: RSVP
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  btn: Let Us Know!
+
+venue:
+  heading: Venue
+  subheading: Lorem ipsum dolor sit amet consectetur.
+
+travel:
+  heading: Travel
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  timeline:
+    - image: img/about/1.jpg
+      date: 2009-2011
+      title: Our Humble Beginnings
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    - image: img/about/2.jpg
+      date: March 2011
+      title: An Agency is Born
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    - image: img/about/3.jpg
+      date: December 2012
+      title: Transition to Full Service
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    - image: img/about/4.jpg
+      date: July 2014
+      title: Phase Two Expansion
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+
+  end1: Be Part
+  end2: Of Our
+  end3: Story!
+
+registry:
+  heading: Registry
+  subheading: Lorem ipsum dolor sit amet consectetur.

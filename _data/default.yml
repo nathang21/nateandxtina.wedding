@@ -1,0 +1,17 @@
+brand:
+  name: "#GoingGuenther"
+menu-string: Menu
+
+nav:
+  - title: RSVP
+    url: '#rsvp'
+  - title: Venue
+    url: '#venue'
+  - title: Travel
+    url: '#travel'
+  - title: Registry
+    url: '#registry'
+  - title: Contact
+    url: '#contact'
+
+copyright: Copyright &copy; Nate and Xtina 2018

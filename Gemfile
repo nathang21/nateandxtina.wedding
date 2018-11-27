@@ -1,10 +1,6 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
+ruby RUBY_VERSION
 
-gem "github-pages", group: :jekyll_plugins
-
-group :jekyll_plugins do
-  gem "jekyll-sitemap"
-  gem "jekyll-include-cache"
-  gem "jekyll-paginate"
-  gem "jemoji"
-end
+# This will help ensure the proper Jekyll version is running.
+gem "jekyll", "3.8.4"
+gem "jekyll-theme-startbootstrap-agency"
