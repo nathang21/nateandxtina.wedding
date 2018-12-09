@@ -1,9 +1,0 @@
-theme: jekyll-theme-tactile
-name: nateandxtina.wedding
-title: Christina & Nathan
-description: Check back for updates on our wedding!
-url: https://nateandxtina.wedding
-markdown: kramdown
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag

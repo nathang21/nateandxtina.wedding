@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "nateandxtina-wedding-staging"
+  },
+  "targets": {
+    "new-york-divorce-attorney": {
+      "hosting": {
+        "staging": [
+          "nateandxtina-wedding-staging"
+        ],
+        "production": [
+          "nateandxtina-wedding"
+        ]
+      }
+    }
+  }
+}
